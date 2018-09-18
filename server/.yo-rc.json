@@ -1,0 +1,30 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "base.icopy.site"
+    },
+    "jhipsterVersion": "5.3.4",
+    "applicationType": "monolith",
+    "baseName": "server",
+    "packageName": "base.icopy.site",
+    "packageFolder": "base/icopy/site",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "MzE4MDNkNzVhMzdjNGQ1YWQyNzJhMDg1YTc3YzgzMDljZjE4ZWYyMmI2ZDIxNDNjMDczZTVmNTRmNGUwODE4YmZmZGQ5YzMzZTRmZmRmMDRkYjcxMzY0YzhmMjY4OTQwMDljNzhhY2EyOTFiMDQzZGNlZmFmYTdmOTIxOWZlZmE=",
+    "enableTranslation": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "skipClient": true
+  }
+}
